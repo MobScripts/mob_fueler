@@ -7,7 +7,7 @@ version '2.0'
 
 server_script 'main.lua'
 
-mob_updater 'yes'
-mob_name '^2Mob Fueler System'
-mob_github 'https://github.com/MobScripts/mob_fueler'
+fueler_updater 'yes'
+fueler_name '^2Mob Fueler System'
+fueler_github 'https://github.com/MobScripts/mob_fueler'
 
