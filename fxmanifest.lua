@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'V3CT0RBUG'
 description 'Fueler System'
-version '2.0'
+version '1.0'
 
 server_script 'main.lua'
 
